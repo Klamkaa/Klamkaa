@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+bb55591469dd71d7bfb81065dd36efb7f2df578c refs/remotes/origin/Nurutomo-patch-1
+850cb96e5b1bdd82fead53a60e04341e58ab5037 refs/remotes/origin/main
+1610454bb261a1426b7c15f8be0c4aae05ceea60 refs/remotes/origin/master
+cdea721162606dd87245f1f1bc3938707549c238 refs/remotes/origin/unmaintain
+26b8a062060c0463e7e78f1c984a7571bc8aa3c2 refs/tags/1.2.2
+0731f7014127a26eb85f34efe719475dac41f754 refs/tags/v0.0.1
+4105515fc7204cfaa0f6b1a639fce69b0850daca refs/tags/v0.5.0
+fe3b924cdc5bcf51d62e033add8acfd7d9d659ab refs/tags/v2.0.0
+ab7af813b0e073870d79fd406144cf073c71268f refs/tags/v2.5.1
